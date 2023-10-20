@@ -1,0 +1,1 @@
+../../../ARImageT503/ARImageT503.uproject /Game/AR_IMG_MapTutorial -Messaging -SessionId=443C07584AF7390F06743F906E03C663 -SessionOwner="Enrico" -SessionName="Launch On Device"
